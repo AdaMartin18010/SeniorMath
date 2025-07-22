@@ -123,4 +123,57 @@ graph TD;
 
 ---
 
+## 数学表达与规范化 | Mathematical Expression and Standardization
+
+### 1. 形式化定义与Lean证明 | Formal Definitions and Lean Proofs
+
+```lean
+import data.real.basic
+import tactic
+
+-- 代数结构的基本性质
+example (a b c : ℝ) : (a + b) + c = a + (b + c) :=
+begin
+  exact add_assoc a b c,
+end
+
+-- 实数的完备性
+example : ∀ (A : set ℝ) (hA : A.nonempty) (hA' : ∃ b : ℝ, ∀ a ∈ A, a ≤ b),
+  ∃ s : ℝ, is_lub A s :=
+begin
+  intros A hA hA',
+  exact real.exists_sup A hA hA',
+end
+```
+
+### 2. 多表征与国际标准 | Multi-representations and International Standards
+
+- 本模块所有知识点均采用集合论、几何、代数、表格等多表征方式，便于国际化理解。
+- 例：$\mathbb{R}$ 是完备有序域，$\mathbb{Z}$ 是整数环。
+- 典型表格：
+
+| 结构 | 公理 | 例子 |
+|------|------|------|
+| 群 | 封闭、结合、单位元、逆元 | $(\mathbb{Z}, +)$ |
+| 环 | 群+乘法结合、分配 | $(\mathbb{Z}, +, \cdot)$ |
+| 域 | 环+乘法逆元 | $(\mathbb{Q}, +, \cdot)$ |
+| 有序域 | 域+序关系 | $(\mathbb{R}, +, \cdot, <)$ |
+
+### 3. 认知结构与哲学批判 | Cognitive Structure and Philosophical Critique
+
+- 结构主义：数与代数对象作为结构中的位置。
+- 形式主义：代数规则的符号操作与公理体系。
+- 认知科学：抽象结构、变量、函数、完备性等认知难点。
+- 关联性：数与代数与集合论、几何、分析、概率统计等模块的知识网络。
+
+### 4. 跨学科与国际化视角 | Interdisciplinary and International Perspectives
+
+- 数与代数思想在物理、经济、工程、计算机等领域的应用。
+- 国际数学竞赛中的数与代数问题与解法。
+- 结合范畴论、模型论等现代数学理论，提升数与代数理论的抽象层次。
+
+> 本节所有内容均采用国际标准的数学符号、Lean 形式化与自然语言描述，强调知识的结构性、哲学基础与最新理论在数与代数理论中的应用。所有历史、应用、认知、哲学等内容均与数学表达深度关联，避免编程实现代码。
+
+---
+
 [返回总目录 | Back to Main Directory](../README.md)
