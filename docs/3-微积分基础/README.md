@@ -212,6 +212,5 @@
 
 > 本节内容持续递归扩展，强调微积分与各学科的深度关联与创新应用，支持跨模块、跨领域的知识融合与前沿探索。
 > This section will be recursively expanded, emphasizing the deep connections and innovative applications of calculus with various disciplines, supporting cross-module and cross-domain knowledge integration and frontier exploration.
-
 > 本README将持续引导微积分基础模块递归扩展，所有内容均严格遵循国际标准、数学规范与哲学前沿，支持高中及更高层次的数学学习与创新。
 > This README will continue to guide the recursive expansion of the calculus module. All content strictly follows international standards, mathematical norms, and philosophical frontiers, supporting high school and higher-level mathematics learning and innovation.

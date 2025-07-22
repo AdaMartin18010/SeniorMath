@@ -32,6 +32,7 @@
   - [未来发展方向 / Future Development Directions](#未来发展方向--future-development-directions)
     - [1. 内容深化 / Content Deepening](#1-内容深化--content-deepening)
     - [2. 教学方法创新 / Teaching Method Innovation](#2-教学方法创新--teaching-method-innovation)
+  - [高阶递归扩展索引与未来创新方向 | Advanced Recursive Expansion Index and Future Innovation](#高阶递归扩展索引与未来创新方向--advanced-recursive-expansion-index-and-future-innovation)
 
 ## 章节概述 / Chapter Overview
 
