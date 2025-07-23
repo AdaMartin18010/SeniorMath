@@ -1,216 +1,50 @@
-# 微积分基础 (Calculus Fundamentals)
+# 微积分基础 (Fundamentals of Calculus)
 
 ## 模块概述
 
-微积分基础是高中数学的重要组成部分，是连接初等数学与高等数学的重要桥梁。本模块系统介绍极限与连续、导数与微分、积分与应用等核心概念，重点分析微积分概念之间的关联性和应用性。
+微积分基础是高中及高等数学的重要模块，涵盖极限、连续、导数、微分、积分及其应用，强调理论递进、实际应用与创新能力培养，是连接代数、几何、建模等模块的桥梁。
 
 ## 知识结构
 
-### 3.1 极限与连续 (Limits and Continuity)
+- 3.1 极限与连续（极限概念、性质、连续性、间断点）
+- 3.2 导数与微分（导数定义、运算法则、微分、函数单调性、极值、最值）
+- 3.3 积分与应用（不定积分、定积分、积分应用、面积体积计算）
+- 拓展：微分方程、级数、数值方法、国际竞赛专题
 
-**核心概念**：
+## 典型内容
 
-- 数列极限与函数极限
-- 极限的运算法则
-- 函数的连续性
-- 无穷小与无穷大
+- 极限与连续的基本概念、性质、典型例题
+- 导数与微分的定义、运算、几何意义、应用
+- 积分的基本方法、应用于面积、体积、物理等问题
+- 典型例题、创新题型、国际竞赛题（IMO、AMC、AIME等）
 
-**知识关联**：
+## 应用建议
 
-- 与代数的桥梁：极限运算与代数运算的联系
-- 与几何的桥梁：极限的几何意义
-- 与函数的桥梁：连续性与函数性质
+- 强调微积分与代数、几何、建模、物理等模块的桥梁作用
+- 注重实际问题建模与解决能力培养
+- 鼓励跨学科应用（如物理、经济、生物中的微积分建模）
+- 推广多表征学习（符号、图像、动画、实验等）
 
-### 3.2 导数与微分 (Derivatives and Differentiation)
+## 国际资源与创新前沿
 
-**核心概念**：
+- 引入国际数学竞赛（IMO、AMC、AIME）高质量题目与解法
+- 整合全球优秀教师/学生的微积分教学笔记、思维导图
+- 关注AI、自动化证明、知识图谱、可视化数学等前沿应用
+- 结合现代数学理论与跨学科创新案例
 
-- 导数的定义与几何意义
-- 导数的运算法则
-- 高阶导数与微分
-- 导数的应用
+## 可视化与多表征
 
-**知识关联**：
+- 提供极限、导数、积分的图像、动画、知识图谱等可视化资源
+- 推荐GeoGebra、Desmos等工具进行微积分可视化
+- 鼓励学生自主绘制思维导图、流程图、概念网络
 
-- 与函数的桥梁：导数与函数性质的关系
-- 与几何的桥梁：导数与切线的关系
-- 与物理的桥梁：导数与变化率的关系
+## 认知与教学建议
 
-### 3.3 积分与应用 (Integration and Applications)
+- 关注极限、导数、积分的抽象性、图像思维、应用难点
+- 推行“直观到抽象”“多表征结合”“应用导向”教学策略
+- 强化逻辑推理、建模能力、问题解决等思维训练
+- 鼓励创新表达与跨学科探究
 
-**核心概念**：
+---
 
-- 定积分的定义与几何意义
-- 积分的运算法则
-- 积分的应用
-- 微分方程基础
-
-**知识关联**：
-
-- 与几何的桥梁：积分与面积的关系
-- 与物理的桥梁：积分与物理量的关系
-- 与函数的桥梁：积分与原函数的关系
-
-## 知识关联性分析
-
-### 跨模块知识桥梁
-
-#### 微积分与代数的桥梁
-
-- **极限运算**：极限与代数运算的结合
-- **导数计算**：导数与代数函数的结合
-- **积分运算**：积分与代数运算的结合
-
-#### 微积分与几何的桥梁
-
-- **切线问题**：导数与几何切线的联系
-- **面积问题**：积分与几何面积的联系
-- **体积问题**：积分与几何体积的联系
-
-#### 微积分与物理的桥梁
-
-- **运动学**：导数描述瞬时速度
-- **力学**：积分计算功和能量
-- **电磁学**：微积分在电磁学中的应用
-
-### 核心概念网络
-
-#### 极限概念网络
-
-```text
-数列极限 → 函数极限 → 无穷小 → 连续性
-   ↓         ↓         ↓         ↓
-收敛性 → 极限运算 → 极限性质 → 函数性质
-```
-
-#### 导数概念网络
-
-```text
-瞬时变化率 → 切线斜率 → 函数单调性 → 极值
-   ↓         ↓         ↓         ↓
-导数定义 → 导数运算 → 导数应用 → 高级应用
-```
-
-#### 积分概念网络
-
-```text
-面积计算 → 定积分 → 不定积分 → 应用积分
-   ↓         ↓         ↓         ↓
-几何意义 → 积分运算 → 积分应用 → 高级应用
-```
-
-## 学习路径设计
-
-### 基础路径
-
-1. **数列极限** → **函数极限** → **连续性**
-2. **导数定义** → **导数运算** → **导数应用**
-3. **积分定义** → **积分运算** → **积分应用**
-
-### 提高路径
-
-1. **高阶导数** → **微分方程** → **级数展开**
-2. **多元微积分** → **偏导数** → **重积分**
-3. **向量微积分** → **曲线积分** → **曲面积分**
-
-### 拓展路径
-
-1. **复变函数** → **解析函数** → **留数理论**
-2. **泛函分析** → **变分法** → **最优控制**
-3. **微分几何** → **黎曼几何** → **现代几何**
-
-## 思维导图与概念梳理
-
-### 知识图谱
-
-- **极限体系**：从数列极限到函数极限的完整体系
-- **导数体系**：从导数定义到导数应用的完整体系
-- **积分体系**：从积分定义到积分应用的完整体系
-
-### 概念地图
-
-- **极限概念地图**：从数列极限到连续性的发展
-- **导数概念地图**：从瞬时变化率到导数应用的发展
-- **积分概念地图**：从面积计算到积分应用的发展
-
-### 学习流程图
-
-- **极限学习流程**：从定义到应用的完整学习路径
-- **导数学习流程**：从定义到应用的完整学习路径
-- **积分学习流程**：从定义到应用的完整学习路径
-
-## 国际优秀资源整合
-
-### 国际数学竞赛习题
-
-- **IMO微积分题**：国际数学奥林匹克微积分部分
-- **AMC微积分题**：美国数学竞赛微积分题目
-- **AIME微积分题**：美国数学邀请赛微积分题目
-
-### 优秀概念梳理笔记
-
-- **微积分概念梳理**：全球优秀教师的微积分教学笔记
-- **极限思维导图**：国际学生的极限学习思维导图
-- **导数学习路径**：优秀学生的导数学习路径
-
-### 先进教学理念
-
-- **直观教学**：从几何直观到抽象概念的教学方法
-- **多表征学习**：符号、图形、语言多种表征结合
-- **应用导向学习**：从实际问题到微积分建模的学习方法
-
-## 认知科学应用
-
-### 学习难点分析
-
-- **抽象概念理解**：微积分概念的抽象性带来的理解困难
-- **极限思维培养**：极限概念的思维需要专门训练
-- **符号运算熟练**：微积分运算的符号操作需要大量练习
-
-### 教学策略建议
-
-- **几何直观**：从几何直观到抽象概念的教学策略
-- **多表征结合**：符号、图形、语言多种表征结合
-- **应用导向**：通过实际问题引入微积分概念
-
-### 思维训练方法
-
-- **极限思维训练**：极限概念和运算的思维训练
-- **导数思维训练**：导数概念和应用的思维训练
-- **积分思维训练**：积分概念和应用的思维训练
-
-## 高阶递归扩展索引与未来创新方向 | Advanced Recursive Expansion Index and Future Innovation
-
-- 本模块将持续递归扩展至：
-  - AI、可视化数学、知识图谱、数据库、自动化证明、认知科学等现代应用中的微积分创新
-  - 范畴论、模型论、结构主义等领域的微积分理论深度融合与理论前沿
-  - 哲学、认知科学等多学科交汇的微积分创新表达
-- 每一节内容均可继续深度细化，支持跨模块链接与现实创新
-- 强调微积分与现代数学、AI、信息科学、哲学、认知科学的交汇与创新
-- 所有内容将持续递归扩展，保持国际化、规范化、形式化表达，结合最新理论与前沿实践。
-
-- This module will continue to recursively expand to:
-  - Innovations in calculus in modern applications such as AI, visual mathematics, knowledge graphs, databases, automated proof, cognitive science, etc.
-  - Deep integration and theoretical frontiers of calculus in category theory, model theory, structuralism, etc.
-  - Innovative expressions of calculus at the intersection of philosophy, cognitive science, and other disciplines
-- Each section can be further refined, supporting cross-module links and real-world innovation
-- Emphasize the intersection and innovation of calculus with modern mathematics, AI, information science, philosophy, and cognitive science
-- All content will be recursively expanded, maintaining internationalization, standardization, formalization, and integration of the latest theories and cutting-edge practices.
-
-## 跨学科知识关联与创新 | Interdisciplinary Knowledge Connections and Innovations
-
-- 微积分与现代数学的深度融合：如泛函分析、微分几何、概率论、数理逻辑等领域的交汇。
-- Deep integration of calculus with modern mathematics: intersections with functional analysis, differential geometry, probability theory, mathematical logic, etc.
-- 微积分与AI、知识图谱、自动化证明的结合：如符号计算、自动微分、定理证明、知识结构建模等。
-- Integration of calculus with AI, knowledge graphs, and automated proof: symbolic computation, automatic differentiation, theorem proving, knowledge structure modeling, etc.
-- 微积分与信息科学、计算机科学的联系：如信号处理、数据分析、算法设计、机器学习等。
-- Connections between calculus and information/computer science: signal processing, data analysis, algorithm design, machine learning, etc.
-- 微积分与哲学、认知科学的交汇：如极限与连续的本体论、变化率的认知机制、抽象与直观的转换等。
-- Intersections of calculus with philosophy and cognitive science: ontology of limits and continuity, cognitive mechanisms of rate of change, transformation between abstraction and intuition, etc.
-- 微积分与范畴论、模型论、结构主义等理论的融合：推动微积分理论的抽象化、统一化与创新表达。
-- Integration of calculus with category theory, model theory, structuralism: abstraction, unification, and innovative expression of calculus theory.
-
-> 本节内容持续递归扩展，强调微积分与各学科的深度关联与创新应用，支持跨模块、跨领域的知识融合与前沿探索。
-> This section will be recursively expanded, emphasizing the deep connections and innovative applications of calculus with various disciplines, supporting cross-module and cross-domain knowledge integration and frontier exploration.
-> 本README将持续引导微积分基础模块递归扩展，所有内容均严格遵循国际标准、数学规范与哲学前沿，支持高中及更高层次的数学学习与创新。
-> This README will continue to guide the recursive expansion of the calculus module. All content strictly follows international standards, mathematical norms, and philosophical frontiers, supporting high school and higher-level mathematics learning and innovation.
+> 本节内容将持续递归扩展，严格遵循国际标准、数学规范与哲学前沿，支持高中及更高层次的数学学习与创新。

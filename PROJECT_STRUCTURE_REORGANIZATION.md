@@ -369,3 +369,106 @@ SeniorMath/
 ---
 
 > 本报告总结了本阶段高中数学知识体系梳理项目的结构优化、内容递归完善与创新升级举措，为后续持续完善与推广应用提供方向。
+
+## 国际标准高中数学主题与子主题结构大纲（中英双语 | Chinese-English Bilingual）
+
+## International Standard High School Mathematics Topics and Subtopics Outline
+
+## 0. 数学基础与表达 | Mathematical Foundations and Expression
+
+- 0.1 数学语言与符号 | Mathematical Language and Symbols（国际表达、LaTeX、符号推理 | International notation, LaTeX, symbolic reasoning）
+- 0.2 逻辑与证明 | Logic and Proof（命题、推理、证明方法、结构化表达 | Propositions, reasoning, proof methods, structured expression）
+- 0.3 数学建模与实际应用 | Mathematical Modeling and Applications（建模流程、案例、跨学科 | Modeling process, cases, interdisciplinary）
+
+## 1. 数与代数 | Numbers and Algebra
+
+- 1.1 实数系统与数轴 | Real Number System and Number Line
+- 1.2 整数、分数、小数、百分数 | Integers, Fractions, Decimals, Percentages
+- 1.3 指数与对数 | Exponents and Logarithms
+- 1.4 有理数与无理数 | Rational and Irrational Numbers
+- 1.5 代数式与恒等变形 | Algebraic Expressions and Identities
+- 1.6 方程与不等式 | Equations and Inequalities（线性、二次、高次、分式、绝对值、参数方程等 | Linear, quadratic, higher degree, rational, absolute value, parametric, etc.）
+- 1.7 代数结构 | Algebraic Structures（集合、群、环、域初步 | Sets, groups, rings, fields basics）
+- 1.8 复数与复平面 | Complex Numbers and Complex Plane（代数形式、三角形式、几何表示、欧拉公式、复数方程 | Algebraic form, trigonometric form, geometric representation, Euler's formula, complex equations）
+
+## 2. 函数与关系 | Functions and Relations
+
+- 2.1 函数概念与表示 | Function Concepts and Representations（解析、图像、表格、递归、分段、隐式、参数、极坐标 | Analytic, graphical, tabular, recursive, piecewise, implicit, parametric, polar）
+- 2.2 线性函数、一次函数 | Linear Functions
+- 2.3 二次函数与多项式函数 | Quadratic and Polynomial Functions
+- 2.4 指数函数与对数函数 | Exponential and Logarithmic Functions
+- 2.5 分式函数、有理函数 | Rational Functions
+- 2.6 三角函数 | Trigonometric Functions（定义、性质、图像、反三角函数、周期性、应用 | Definition, properties, graphs, inverse trig functions, periodicity, applications）
+- 2.7 复合函数、反函数、分段函数 | Composite, Inverse, and Piecewise Functions
+- 2.8 递归与数列 | Recursion and Sequences（等差、等比、递推、极限 | Arithmetic, geometric, recurrence, limits）
+- 2.9 函数建模与实际应用 | Function Modeling and Applications
+
+## 3. 几何与空间 | Geometry and Space
+
+- 3.1 欧几里得几何 | Euclidean Geometry（点、线、面、角、三角形、多边形、圆、相似、全等、面积、体积 | Points, lines, planes, angles, triangles, polygons, circles, similarity, congruence, area, volume）
+- 3.2 解析几何 | Analytic Geometry（直线、圆、椭圆、双曲线、抛物线、参数方程、极坐标 | Lines, circles, ellipses, hyperbolas, parabolas, parametric equations, polar coordinates）
+- 3.3 立体几何 | Solid Geometry（多面体、旋转体、空间向量、空间位置关系、空间距离与角度 | Polyhedra, solids of revolution, spatial vectors, spatial relationships, distances and angles）
+- 3.4 向量与空间 | Vectors and Space（向量运算、空间向量、点积、叉积、空间几何应用 | Vector operations, spatial vectors, dot product, cross product, spatial geometry applications）
+- 3.5 变换与对称 | Transformations and Symmetry（平移、旋转、反射、相似、射影、仿射、群论初步 | Translation, rotation, reflection, similarity, projective, affine, basic group theory）
+- 3.6 直观几何与动态几何 | Intuitive and Dynamic Geometry（几何画板、可视化、几何建模、创新表达 | Dynamic geometry software, visualization, geometric modeling, innovative expression）
+
+## 4. 三角学 | Trigonometry
+
+- 4.1 三角比与三角函数 | Trigonometric Ratios and Functions
+- 4.2 三角恒等式与方程 | Trigonometric Identities and Equations
+- 4.3 解三角形 | Solving Triangles（正弦定理、余弦定理、面积公式 | Sine law, cosine law, area formulas）
+- 4.4 三角函数的图像与性质 | Graphs and Properties of Trigonometric Functions
+- 4.5 三角函数的实际应用 | Applications of Trigonometric Functions
+
+## 5. 微积分基础 | Calculus
+
+- 5.1 极限与连续 | Limits and Continuity（数列极限、函数极限、无穷小、无穷大、夹逼、洛必达 | Sequence limits, function limits, infinitesimal, infinite, squeeze theorem, L'Hospital's rule）
+- 5.2 导数与微分 | Derivatives and Differentials（定义、几何意义、求导法则、隐函数、参数方程、应用 | Definition, geometric meaning, differentiation rules, implicit function, parametric equations, applications）
+- 5.3 积分与应用 | Integrals and Applications（不定积分、定积分、面积、体积、物理应用、数值积分 | Indefinite and definite integrals, area, volume, physical applications, numerical integration）
+- 5.4 微分方程初步 | Introduction to Differential Equations（一阶、二阶、分离变量、实际建模 | First order, second order, separation of variables, modeling）
+- 5.5 级数与泰勒展开 | Series and Taylor Expansion（基础 | Basics）
+
+## 6. 概率与统计 | Probability and Statistics
+
+- 6.1 随机事件与概率 | Random Events and Probability（样本空间、事件、概率定义、性质、条件概率、全概率、贝叶斯 | Sample space, events, probability definition, properties, conditional probability, total probability, Bayes' theorem）
+- 6.2 随机变量与分布 | Random Variables and Distributions（离散、连续、分布律、常见分布、期望、方差、协方差、相关系数 | Discrete, continuous, distribution law, common distributions, expectation, variance, covariance, correlation）
+- 6.3 参数估计与假设检验 | Parameter Estimation and Hypothesis Testing
+- 6.4 回归分析与方差分析 | Regression and Analysis of Variance
+- 6.5 时间序列与数据分析 | Time Series and Data Analysis
+- 6.6 贝叶斯统计与现代统计 | Bayesian and Modern Statistics
+- 6.7 统计建模与实际应用 | Statistical Modeling and Applications
+- 6.8 数据可视化与统计图表 | Data Visualization and Statistical Charts
+
+## 7. 离散数学与组合 | Discrete Mathematics and Combinatorics
+
+- 7.1 集合论与基本性质 | Set Theory and Basic Properties
+- 7.2 计数原理 | Counting Principles（加法、乘法、排列、组合、容斥、鸽巢原理、递推、生成函数 | Addition, multiplication, permutation, combination, inclusion-exclusion, pigeonhole, recursion, generating functions）
+- 7.3 组合数学 | Combinatorics（组合设计、极值、构造、创新题型 | Design, extremal, construction, innovative problems）
+- 7.4 图论基础 | Fundamentals of Graph Theory（图的定义、性质、遍历、连通性、树、网络流、着色、匹配 | Definition, properties, traversal, connectivity, trees, network flow, coloring, matching）
+- 7.5 递推关系与数论 | Recurrence Relations and Number Theory（整除、素数、同余、欧拉函数、RSA、递推、递归 | Divisibility, primes, congruence, Euler's function, RSA, recurrence, recursion）
+- 7.6 逻辑与证明 | Logic and Proof（命题逻辑、谓词逻辑、证明方法、归纳、递归、自动化证明 | Propositional logic, predicate logic, proof methods, induction, recursion, automated proof）
+
+## 8. 数学建模与跨学科应用 | Mathematical Modeling and Interdisciplinary Applications
+
+- 8.1 建模基础 | Modeling Fundamentals（流程、假设、变量、参数、模型评价 | Process, assumptions, variables, parameters, model evaluation）
+- 8.2 优化理论与方法 | Optimization Theory and Methods（线性规划、非线性优化、整数规划、动态规划、图优化 | Linear programming, nonlinear optimization, integer programming, dynamic programming, graph optimization）
+- 8.3 数值方法与仿真 | Numerical Methods and Simulation（数值微分、积分、方程求解、蒙特卡洛、仿真 | Numerical differentiation, integration, equation solving, Monte Carlo, simulation）
+- 8.4 数据科学与AI建模 | Data Science and AI Modeling（机器学习、数据挖掘、AI算法、知识图谱 | Machine learning, data mining, AI algorithms, knowledge graphs）
+- 8.5 跨学科建模案例 | Interdisciplinary Modeling Cases（物理、工程、经济、生物、社会科学等 | Physics, engineering, economics, biology, social sciences, etc.）
+
+## 9. 数学哲学与认知 | Philosophy and Cognition of Mathematics
+
+- 9.1 数学本体论与认识论 | Mathematical Ontology and Epistemology（结构主义、形式主义、直觉主义、逻辑主义、范畴论等 | Structuralism, formalism, intuitionism, logicism, category theory, etc.）
+- 9.2 数学认知机制与思维方式 | Mathematical Cognition and Thinking（抽象、直观、符号、图像、创新表达、AI认知 | Abstraction, intuition, symbols, images, innovative expression, AI cognition）
+- 9.3 数学史与文化 | History and Culture of Mathematics（中西数学史、国际交流、数学文化、创新案例 | Chinese and Western history, international exchange, mathematical culture, innovation cases）
+
+## 10. 国际竞赛与全球资源 | International Competitions and Global Resources
+
+- 10.1 IMO/AMC/AIME/CEMC等竞赛真题与解析 | IMO/AMC/AIME/CEMC Competition Problems and Solutions
+- 10.2 全球主流教材与课程标准 | Global Mainstream Textbooks and Curriculum Standards（IB、AP、A-level、SAT等 | IB, AP, A-level, SAT, etc.）
+- 10.3 国际化表达与多语种资源 | International Expression and Multilingual Resources
+- 10.4 国际权威平台与创新案例 | International Authoritative Platforms and Innovative Cases
+
+---
+
+> 本大纲为SeniorMath项目对标国际标准高中数学的完整主题与子主题结构，所有内容均采用中英双语（Chinese-English bilingual）方式呈现，后续将递归细化每一主题下的知识点、典型题型、证明方法、可视化资源、国际化表达与创新应用。
