@@ -1,82 +1,54 @@
-# SeniorMath - 高中数学知识体系完整梳理
+# SeniorMath - 国际化高中数学知识体系完整梳理
 
 ## 项目定位 | Project Positioning
 
-**SeniorMath** 是一个专门针对高中数学知识体系进行全面、系统、深入梳理的教育项目。本项目专注于**数学知识之间的联系关联性和结构性**，整合全球优秀的概念梳理笔记和思维导图笔记，提供优秀的习题集和定理证明，为高中数学教师、学生和教育研究者提供一个完整、准确、实用的数学知识体系参考。
+**SeniorMath** 是一个专门针对高中数学知识体系进行全面、系统、深入梳理的国际化教育项目。本项目专注于**完整梳理高中数学所有相关内容，建立完整完善的语义体系，对齐国际标准的Wiki和发达国家标准**，为全球数学教育提供高质量的标准参考。
 
 ### 核心特色 | Core Features
 
-- **🔗 知识关联性分析**：深入分析数学知识之间的逻辑关系和内在联系
-- **🏗️ 结构性思维**：构建完整的数学知识结构和体系框架
-- **🌍 全球优秀资源**：整合国际优秀的概念梳理笔记和思维导图
-- **📚 优秀习题集**：收集全球优秀数学竞赛习题和解题方法
-- **🔍 完整定理证明**：提供严谨的定理证明和推导过程
-- **🧠 认知结构分析**：基于认知科学理论分析学习难点和思维模式
+- **🌍 国际化标准导向**：以国际数学教育标准为基准，参考发达国家数学教育体系
+- **📚 完整内容体系**：覆盖高中数学所有核心内容，建立完整的知识关联网络
+- **🔗 完善语义体系**：建立精确的数学概念定义，构建完整的逻辑推理体系
+- **📖 Wiki标准对齐**：采用国际通用的数学表达方式，建立符合国际Wiki标准的语义体系
+- **🎯 跨学科融合**：数学与物理、计算机科学、经济学等领域的深度融合
+- **📈 质量保证体系**：建立严格的内容质量检查和标准对齐机制
 
 ## 项目结构 | Project Structure
 
 ```text
 SeniorMath/
-├── docs/                    # 数学知识体系文档
-│   ├── 0-数理逻辑/         # 数学基础逻辑
-│   │   ├── README.md       # 数理逻辑概述
-│   │   ├── 0.1-命题逻辑.md # 命题逻辑详细内容
-│   │   ├── 0.2-谓词逻辑.md # 谓词逻辑详细内容
-│   │   └── 0.3-证明方法.md # 证明方法详细内容
-│   ├── 1-集合论/           # 集合论基础
-│   │   ├── README.md       # 集合论概述
-│   │   ├── 1.1-集合的定义与基本性质.md
-│   │   └── 1.2-子集与集合运算.md
-│   ├── 2-映射与关系/       # 映射与关系理论
-│   │   ├── README.md       # 映射与关系概述
-│   │   ├── 2.1-映射的定义.md
-│   │   └── 2.2-关系的定义.md
-│   ├── 3-数与代数/         # 数与代数基础
-│   │   ├── README.md       # 数与代数概述
-│   │   ├── 3.1-实数与数轴.md
-│   │   └── 3.2-代数式与恒等变形.md
-│   ├── 4-几何与空间/       # 几何与空间概念
-│   │   ├── README.md       # 几何与空间概述
-│   │   ├── 4.1-欧几里得几何基础.md
-│   │   └── 4.2-向量与空间.md
-│   ├── 5-概率与统计/       # 概率与统计基础
-│   │   ├── README.md       # 概率与统计概述
-│   │   ├── 5.1-随机事件与概率.md
-│   │   └── 5.2-随机变量与分布.md
-│   ├── 6-微积分与分析/     # 微积分与分析基础
-│   │   ├── README.md       # 微积分与分析概述
-│   │   ├── 6.1-极限与连续.md
-│   │   ├── 6.2-导数与微分.md
-│   │   └── 6.3-积分与应用.md
-│   ├── 7-数学哲学与认知/   # 数学哲学与认知科学
-│   │   ├── README.md       # 数学哲学与认知概述
-│   │   ├── 7.1-数学哲学基础.md
-│   │   └── 7.2-数学认知与思维.md
-│   └── README.md           # 文档总览
-├── mindmaps/               # 思维导图与概念梳理
-│   ├── knowledge-graphs/   # 知识图谱
-│   ├── concept-maps/       # 概念地图
-│   ├── flow-charts/        # 流程图
-│   └── mind-maps/          # 思维导图
-├── exercises/               # 优秀习题库
-│   ├── basic/              # 基础习题
-│   ├── advanced/           # 提高习题
-│   ├── competition/        # 竞赛习题
-│   └── international/      # 国际优秀习题
-├── proofs/                 # 定理证明库
-│   ├── basic/              # 基础证明
-│   ├── theorems/           # 重要定理
-│   ├── techniques/         # 证明技巧
-│   └── international/      # 国际优秀证明
-├── teaching/               # 教学指导
-│   ├── difficulties/       # 教学难点
-│   ├── guidance/           # 教学指导
-│   └── designs/            # 教学设计
-├── PROJECT_ADJUSTMENT_REPORT.md
-├── PROJECT_COMPLETION_REPORT.md
-├── PROJECT_PROGRESS_SUMMARY.md
-├── LICENSE
-└── README.md
+├── core/                          # 核心数学内容
+│   ├── algebra/                   # 代数体系
+│   ├── geometry/                  # 几何体系
+│   ├── calculus/                  # 微积分体系
+│   ├── probability-statistics/    # 概率统计体系
+│   ├── discrete-mathematics/      # 离散数学体系
+│   └── mathematical-logic/        # 数理逻辑体系
+├── standards/                     # 国际标准对齐
+│   ├── ccss/                     # 美国CCSS标准
+│   ├── uk-national-curriculum/   # 英国国家课程
+│   ├── singapore-framework/      # 新加坡数学框架
+│   ├── pisa-framework/           # PISA数学框架
+│   └── wiki-standards/           # 维基百科标准
+├── semantic-system/              # 语义体系
+│   ├── definitions/              # 概念定义
+│   ├── symbols/                  # 符号规范
+│   ├── logic/                    # 逻辑推理
+│   └── knowledge-graph/          # 知识图谱
+├── applications/                 # 应用领域
+│   ├── physics/                  # 数学与物理
+│   ├── computer-science/         # 数学与计算机科学
+│   ├── economics/                # 数学与经济学
+│   └── engineering/              # 数学与工程
+├── resources/                    # 教育资源
+│   ├── exercises/                # 习题集
+│   ├── proofs/                   # 定理证明
+│   ├── examples/                 # 实例应用
+│   └── teaching-materials/       # 教学材料
+└── documentation/                # 项目文档
+    ├── guides/                   # 使用指南
+    ├── references/               # 参考资料
+    └── standards/                # 标准文档
 ```
 
 ## 内容特色 | Content Features
