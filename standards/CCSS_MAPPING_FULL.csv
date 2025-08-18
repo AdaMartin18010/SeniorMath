@@ -1,0 +1,15 @@
+standard,doc_anchor,exercise,items
+HSF.IF.1-3,docs/3-函数与关系/3.1-函数概念与表示.md#函数的定义,exercises/basic/function-trigonometry-basic-exercises.md,1-5
+HSF.IF.4-6,docs/3-函数与关系/3.1-函数概念与表示.md#函数图像与基本性质,exercises/basic/function-trigonometry-basic-exercises.md,6-12
+HSF.BF.1-3,docs/3-函数与关系/3.1-函数概念与表示.md#函数的运算与复合,exercises/basic/function-trigonometry-basic-exercises.md,13-18
+HSF.TF.1-8,docs/5-三角学/5.1-三角函数基础.md#三角函数的定义与图像,exercises/basic/function-trigonometry-basic-exercises.md,19-34
+HSC.Limits,docs/6-微积分与分析/6.1-极限与连续.md#极限的定义与性质,exercises/basic/calculus-basic-exercises.md,1-4
+HSC.Continuity,docs/6-微积分与分析/6.1-极限与连续.md#连续与间断,exercises/basic/calculus-basic-exercises.md,5-8
+HSC.Derivative,docs/6-微积分与分析/6.2-导数与微分.md#导数定义,exercises/basic/calculus-basic-exercises.md,9-12
+HSC.Applications,docs/6-微积分与分析/6.2-导数与微分.md#导数应用,exercises/basic/calculus-basic-exercises.md,13-18
+HSC.Integral,docs/6-微积分与分析/6.3-积分与应用.md#不定积分,exercises/basic/calculus-basic-exercises.md,19-22
+HSC.DefiniteIntegral,docs/6-微积分与分析/6.3-积分与应用.md#定积分与面积体积,exercises/basic/calculus-basic-exercises.md,23-25
+S-CP,docs/7-概率与统计/7.1-概率论基础.md#条件概率与独立性,exercises/basic/probability-statistics-basic-exercises.md,条件概率
+S-MD,docs/7-概率与统计/7.2-随机变量与分布.md#期望方差与矩,exercises/basic/probability-statistics-basic-exercises.md,期望/方差
+HSA.SSE,docs/2-数与代数/2.3-多项式基础.md#代数式与恒等变形,exercises/basic/algebra-basic-exercises.md,多项式
+HSA.REI,docs/2-数与代数/2.3-多项式基础.md#方程与因式分解,exercises/basic/algebra-basic-exercises.md,方程求解 

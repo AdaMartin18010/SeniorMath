@@ -1,0 +1,12 @@
+alevel_topic,doc_anchor,exercise
+Pure.Algebra,docs/2-数与代数/2.3-多项式基础.md#代数式与恒等变形,exercises/basic/algebra-basic-exercises.md
+Pure.Functions,docs/3-函数与关系/3.1-函数概念与表示.md#函数的运算与复合,exercises/basic/function-trigonometry-basic-exercises.md
+Pure.CoordinateGeometry,docs/4-几何与空间/4.2-解析几何基础.md#直线;#圆;#圆锥曲线,
+Pure.Trigonometry,docs/5-三角学/5.1-三角函数基础.md#三角恒等变换,exercises/basic/function-trigonometry-basic-exercises.md
+Pure.Calculus,docs/6-微积分与分析/6.1-6.3,exercises/basic/calculus-basic-exercises.md
+Mechanics.Kinematics,docs/9-数学建模/9.1-数学建模基础.md#运动学建模,
+Mechanics.Forces,docs/9-数学建模/9.1-数学建模基础.md#力学建模,
+Statistics.Sampling-Data,docs/7-概率与统计/7.1-概率论基础.md;docs/7-概率与统计/7.2-随机变量与分布.md,exercises/basic/probability-statistics-basic-exercises.md
+Further.LinearAlgebra,docs/10-线性代数/10.1-线性代数基础.md#特征值与特征向量;#内积空间与正交性,exercises/advanced/linear-algebra-advanced-exercises.md
+Further.Complex,docs/2-数与代数/2.2-复数系统.md#复数的表示;#复数的运算,
+Further.Discrete,docs/8-离散数学/8.1-组合数学基础.md#排列;#组合;#生成函数,exercises/advanced/discrete-combinatorics-advanced-exercises.md 
